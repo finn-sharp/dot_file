@@ -1,3 +1,6 @@
+# Cloud Env Custom을 위한 Dotfile
+> 이왕 작업하는거.. 예쁘게...
+
 ## 사용 방법
 >[!NOTE]  
 >sh 파일 생성  
