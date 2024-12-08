@@ -3,7 +3,7 @@
 
 ## 사용 방법
 >[!NOTE]  
-
+> 아래 순서를 따라 진행합니다.
 
 
 **1. `vim ~/install_zsh_spaceX.sh`**
